@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import Header from "./components/Header";
 import Characters from "./components/Characters";
-import "./App.sass";
+import "./App.scss";
 
 import "./components/Header.css";
 import "./components/Characters.css";
